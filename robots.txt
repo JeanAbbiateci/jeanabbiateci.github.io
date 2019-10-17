@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://www.jeanabbiateci.fr/sitemap.xml
